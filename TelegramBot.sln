@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{4F5EBEE3-2D24-4EEC-B195-129E4B26F0C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5EBEE3-2D24-4EEC-B195-129E4B26F0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5EBEE3-2D24-4EEC-B195-129E4B26F0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5EBEE3-2D24-4EEC-B195-129E4B26F0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5EBEE3-2D24-4EEC-B195-129E4B26F0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45935A32-25B6-4424-AB6F-30CE5DFA0581}
+	EndGlobalSection
+EndGlobal
