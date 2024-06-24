@@ -51,7 +51,7 @@ namespace TelegramBot
             {
                 foreach (var item in items)
                 {
-                    if (item.CallbackData == callbackQuery.Data && item.Text is "O" or "X") return;
+                    if (item.CallbackData == callbackQuery.Data && item.Text is "⭕" or "❌") return;
 
                     if (item.CallbackData == callbackQuery.Data && item.Text == empty)
                     {
